@@ -1,4 +1,6 @@
 /venv
 venv
-config.py
 __pycache__/
+.env
+.env.local
+.env.*.local
